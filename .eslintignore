@@ -1,0 +1,6 @@
+# Code Fellows 401 config
+**/node_modules/*
+**/vendor/*
+**/*.min.js
+**/coverage/*
+**/build/*
